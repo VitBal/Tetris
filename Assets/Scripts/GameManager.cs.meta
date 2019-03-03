@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 53f6814f7b6da1f40a1803b1c557a5c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tetramino: {fileID: 1230428251124208, guid: fbdf655118ba8d9408ae761ee4d91715,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
